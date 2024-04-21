@@ -95,20 +95,9 @@
   }
   
   /* responsive css */
-  
-  @media only screen and (max-width: 1024px){
-      #main{
-          background-color: lightblue;
-      }
-  }
-  @media only screen and (max-width: 992px){
-      #main{
-          background-color: lightcoral;
-      }
-  }
+ 
   @media only screen and (max-width: 768px){
       #main{
-          background-color: lightpink;
           flex-direction: column;
           height: 150vh;
           padding: 5vw 8vw;
